@@ -3,5 +3,5 @@ title: "Brag Sheet"
 date: 2021-05-13 
 ---
 - Earned a black belt in Taekwondo
-- Freshmen year setter for Volleyball team
+- Played the cello for 5 years
 - Fluent in Cantonese
