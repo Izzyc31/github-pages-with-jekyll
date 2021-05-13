@@ -4,7 +4,8 @@ email: Icheng@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
   Email     : isabellacheng1204@gmail.com
   Instagram : isbll_chng 
-   Github    : icheng31 
+<br>
+  Github    : icheng31 
 
 show_excerpts: true# set to false to remove excerpts on the homepage
 theme: jekyll-theme-minimal
