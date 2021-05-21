@@ -2,8 +2,9 @@ title: Isabella Cheng
 author: Isabella Cheng
 email: Icheng@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  Github    : icheng31 
-  Instagram : isbll_chng 
+
+instagram_username: isbll_chng 
+github_username: icheng31 
   
 
 show_excerpts: true# set to false to remove excerpts on the homepage
